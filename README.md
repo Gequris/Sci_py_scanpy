@@ -1,2 +1,2 @@
 # Sci_py_scanpy
-Hw for scanpy
+Here are some results of analzing Drosophila dataset from HW
